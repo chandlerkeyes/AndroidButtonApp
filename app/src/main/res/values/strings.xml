@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Playing</string>
+    <string name="textview">TextView</string>
+    <string name="the_great_explorer_of_the_truth_the_master_builder_of_human_happiness_no_one_rejects_dislikes_or_avoids_pleasure_itself_because_it_is_pleasure_but_because_those_who_do_not_know_how_to_pursue_pleasure_rationally_encounter_consequences_that_are_extremely_painful_nor_again_is_there_akkkkkkkkkkkkkkkknyo">
+        the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids
+        pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally
+        encounter consequences that are extremely painful. Nor again is there aKKKKKKKKKKKKKKKKnyo
+    </string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="description">TODO</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="cl">Contraint Layout</string>
+    <string name="multiTextValue">
+        sfsdfasdasdasdasdadasdasdasdadsdasdadsasdasdsdasdwdefdgdfgdfgsasdfrdgfgsdsdsadsdfasafdsfgtrdgdgdgfdgdgdgdgdgdgdgfgfdgdgfgdfgfdgdfgdfgdgtyryrtyututyutyutyutyutytyutyutyutyufhfghfghfghfghfhfghfhfghfhfghfdgfgdfgdgdfgdfgdfgdfgdfgdfgdfgdfgdgdfgdfgdfgdfgfdgdgfd
+        9999999999999999999999999yyyyyyyyyyyyyyyyyyyyyhbhvhjvjvjvhvjvhvjhhhvjvjvjgfhgmgfhgfgff
+        gdfgghfhfhgtufffffffffffffffffffffffffffffffyuggggdgd
+    </string>
+    <string name="cancelButton">CANCEL</string>
+    <string name="okButton">OK</string>
+    <string name="contentDescription">This is my content description</string>
 </resources>
